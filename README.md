@@ -33,7 +33,7 @@ This repository contains the complete implementation and results for the Trinita
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/trinitarian-cosmology-cpl.git
+git clone https://github.com/Hanksx/trinitarian-cosmology-cpl.git
 cd trinitarian-cosmology-cpl
 
 # Install dependencies
@@ -228,7 +228,7 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file for
 **Nil Silva**  
 Independent Researcher  
 Email: [your-email]  
-GitHub: [@yourusername](https://github.com/yourusername)
+GitHub: [@Hanksx](https://github.com/Hanksx)
 
 ---
 
